@@ -1,16 +1,18 @@
-### Hi there 👋
+Hi there 👋 This is Hazrat and I am a web developer.
 
-<!--
-**Hazrat16/Hazrat16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Expertise : JavaScript, ES6, React.js, Bootstrap, HTML5, CSS3, Python,Django
+Comfortable : Node.js, Express, MongoDB, Postgresql, Firebase, Heroku,ScSS,C/C++ etc.
+Familiar : Redux,Material UI etc.
+Tools : Git, Github, VS Code, Chrome Dev Tool, npm, CodeBlocks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🔭 I’m currently working on ... my own project
+🌱 I’m currently learning ... React.js,Node.js,MongoDB
+💬 Ask me about anything about programming and coding.
+⚡ Fun fact: I can handle any programming related problem in few time.
+
+Connect With Me:
+
+Facebook: https://www.facebook.com/hazrat.ali.5682944
+LinkedIn: https://www.linkedin.com/in/s-m-hazrat-ali-b1590a1b7/
