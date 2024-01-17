@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hazrat16" alt="hazrat16" /></a> </p>
 
-- 🌱 I’m currently learning **spring boot, advance topic of react**
+- 🌱 I’m currently learning **spring boot, advance topic of js and react**
 
-- 💬 Ask me about **react, css**
+- 💬 Ask me about **js, react, css**
 
 - 📫 How to reach me **hazrat@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/s.m. hazrat ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="s.m. hazrat ali" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/smhazratali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="s.m. hazrat ali" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15697679" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15697679" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/hazrat_ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hazrat_ali" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/hazrat17016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hazrat17016" height="30" width="40" /></a>
