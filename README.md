@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hazrat16" alt="hazrat16" /></a> </p>
 
-- 🌱 I’m currently learning **spring boot, advance topic of js and react**
+- 🌱 I’m currently learning **spring boot, advanced topic of js and react**
 
-- 💬 Ask me about **js, react, css**
+- 💬 Ask me about **JavaScript, ReactJS, NodeJS, CSS**
 
 - 📫 How to reach me **hazrat17016@gmail.com**
 
