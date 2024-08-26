@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **spring boot, the advanced topic of JavaScript and React JS**
 
-- 💬 Ask me about **JavaScript, ReactJS, NodeJS, CSS**
+- 💬 Ask me about **JavaScript, ReactJS, Spring Boot, NodeJS, CSS**
 
 - 📫 How to reach me **hazrat17016@gmail.com**
 
