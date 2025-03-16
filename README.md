@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hazrat16" alt="hazrat16" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Boot, the advanced topic of JavaScript and React JS**
+- 🌱 I’m currently learning **Spring Boot, the advanced topic of JavaScript and ReactJS**
 
 - 💬 Ask me about **JavaScript, ReactJS, Spring Boot, NodeJS, CSS**
 
