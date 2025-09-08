@@ -8,9 +8,10 @@
 ---
 
 ### 👨‍💻 About Me
-- 🌱 Currently learning **Spring Boot, Advanced JavaScript, and ReactJS**  
-- 💬 Ask me about **JavaScript, ReactJS, Spring Boot, NodeJS, CSS**  
-- 📫 Reach me at: **hazrat17016@gmail.com**
+💻 Full Stack Developer | ReactJS | NextJS | Express | MongoDB | Tailwind | Styled-Component | Docker | DevOps Enthusiast  
+🌱 Currently exploring advanced React, CI/CD, and Cloud deployments  
+🎯 Goal: Building scalable web apps with clean architecture and modern tooling  
+📫 Reach me at: **hazrat17016@gmail.com**
 
 ---
 
