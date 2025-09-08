@@ -13,12 +13,7 @@
 🎯 Goal: Building scalable web apps with clean architecture and modern tooling  
 📫 Reach me at: **hazrat17016@gmail.com**
 
----
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hazrat16&theme=algolia&row=1&no-frame=true&margin-w=15" alt="hazrat16" />
-</p>
 
 ---
 
