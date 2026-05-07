@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120"/>
-</div>
+![image](https://raw.githubusercontent.com/A5H1Q/A5H1Q/main/D!N0.gif)
 
 <h1 align="center">Hi 👋, I'm S.M. Hazrat Ali</h1>
 <h3 align="center">A Passionate Full Stack Developer 🚀</h3>
