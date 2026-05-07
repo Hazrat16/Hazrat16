@@ -1,67 +1,48 @@
 ![image](https://raw.githubusercontent.com/A5H1Q/A5H1Q/main/D!N0.gif)
 
-<h1 align="center">Hi 👋, I'm S.M. Hazrat Ali</h1>
-<h3 align="center">A Passionate Full Stack Developer 🚀</h3>
-
----
-
-### 👨‍💻 About Me
-💻 Full Stack Developer | ReactJS | NextJS | Express | MongoDB | Tailwind | Styled-Component | Docker | DevOps Enthusiast  
-🌱 Currently exploring advanced React, CI/CD, and Cloud deployments  
-🎯 Goal: Building scalable web apps with clean architecture and modern tooling  
-📫 Reach me at: **hazrat17016@gmail.com**
+<h1 align="center">S.M. Hazrat Ali</h1>
+<h3 align="center"><samp>Full-Stack Developer | Engineering scalable web products from concept to cloud</samp></h3>
+<p align="center"><samp>I build and ship reliable end-to-end applications and transforming ideas into production-ready systems.</samp></p>
 
 
+<h3><b><samp>Skills</samp></b></h3>
 
----
+<h4><b><samp>Languages</samp></b></h4>
 
-### 🤝 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/smhazratali" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="30"/>
-  </a>
-  <a href="https://stackoverflow.com/users/15697679" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" width="40" height="30"/>
-  </a>
-  <a href="https://codeforces.com/profile/hazrat_ali" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" width="40" height="30"/>
-  </a>
-  <a href="https://www.leetcode.com/hazrat17016" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="30"/>
-  </a>
-</p>
+![](https://skills.syvixor.com/api/icons?i=javascript,typescript,c,cpp&perline=18)
 
----
+<h4><b><samp>Frontend Frameworks & Libraries</samp></b></h4>
 
-### 🛠️ Languages and Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-</p>
+![](https://skills.syvixor.com/api/icons?i=react,nextjs,styledcomponents,tailwind,chakraui,materialui,antdesign,bootstrap&perline=18)
 
----
+<h4><b><samp>State Management</samp></b></h4>
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hazrat16&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazrat16&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+![](https://skills.syvixor.com/api/icons?i=redux,redux&perline=18)
 
----
+<h4><b><samp>Backend Frameworks & Runtime</samp></b></h4>
+
+![](https://skills.syvixor.com/api/icons?i=nodejs,expressjs&perline=18)
+
+<h4><b><samp>Databases</samp></b></h4>
+
+![](https://skills.syvixor.com/api/icons?i=mongodb,postgresql&perline=18)
+
+<h4><b><samp>DevOps & CI/CD</samp></b></h4>
+
+![](https://skills.syvixor.com/api/icons?i=githubactions,jenkins,docker&perline=18)
+
+<h4><b><samp>Developer Tools</samp></b></h4>
+
+![](https://skills.syvixor.com/api/icons?i=git,github,vscode,cursor&perline=18)
+
+##
+
+<h3><b><samp>Tools and Platform</samp></b></h3>
+
+<h4><b><samp>Operating Systems and Platforms</samp></b></h4>
+
+![](https://skills.syvixor.com/api/icons?i=windows,linux,ubuntu&perline=18)
+
 
 ### 🔥 GitHub Streak
 <p align="center">
