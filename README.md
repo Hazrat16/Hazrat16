@@ -1,6 +1,6 @@
 ![image](https://raw.githubusercontent.com/A5H1Q/A5H1Q/main/D!N0.gif)
 
-<h1 align="center"><samp>S.M. Hazrat Ali</samp>samp></h1>
+<h1 align="center"><samp>S.M. Hazrat Ali</samp></h1>
 <h3 align="center"><samp>Full-Stack Developer | Engineering scalable web products from concept to cloud</samp></h3>
 <p align="center"><samp>I build and ship reliable end-to-end applications and transforming ideas into production-ready systems.</samp></p>
 
