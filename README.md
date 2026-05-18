@@ -17,7 +17,7 @@
 
 <h4><b><samp>State Management</samp></b></h4>
 
-![](https://skills.syvixor.com/api/icons?i=redux,redux&perline=18)
+![](https://skills.syvixor.com/api/icons?i=redux&perline=18)
 
 <h4><b><samp>Backend Frameworks & Runtime</samp></b></h4>
 
