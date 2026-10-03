@@ -37,7 +37,4 @@
 
 ![](https://skills.syvixor.com/api/icons?i=playwright,grafana,prometheus&perline=18)
 
-### <samp>Now</samp>
 
-- Building production AWS infrastructure for SmartJobHub (ECS Fargate, OIDC, versioned deploys)
-- Writing about what I build on [LinkedIn](https://linkedin.com/in/smhazratali)
