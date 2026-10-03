@@ -16,7 +16,7 @@
 | --- | --- |
 | [**SmartJobHub**](https://github.com/Hazrat16/smart-jobhub) | Job platform (Next.js 15, Express 5, Socket.IO) with Terraform on AWS ECS, CI/CD and Grafana monitoring |
 | [**Real-time Inventory**](https://github.com/Hazrat16/real-time-high-trafic-inventory) · [Live](https://real-time-high-trafic-inventory-web.vercel.app) | Live stock over Socket.IO, row locking to prevent overselling |
-| [**Doctor Appointment**](https://github.com/Hazrat16/appointment) | 17-page app with patient, doctor and admin dashboards, Terraform and Ansible |
+| [**Doctor Appointment**](https://github.com/Hazrat16/appointment) | A web app with patient, doctor, and admin dashboards, Terraform and Ansible |
 | [**AI SQL Assistant**](https://github.com/Hazrat16/ai-sql-assistant-backend) | Plain English to safe, read-only SQL with OpenAI/Ollama |
 
 ### <samp>Tech stack</samp>
