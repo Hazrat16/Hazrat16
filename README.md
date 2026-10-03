@@ -1,50 +1,43 @@
-![image](https://raw.githubusercontent.com/A5H1Q/A5H1Q/main/D!N0.gif)
-
 <h1 align="center"><samp>S.M. Hazrat Ali</samp></h1>
-<h3 align="center"><samp>Full-Stack Developer | Engineering scalable web products from concept to cloud</samp></h3>
-<p align="center"><samp>I build and ship reliable end-to-end applications and transforming ideas into production-ready systems.</samp></p>
+<h3 align="center"><samp>Full-Stack Engineer · React, Next.js, Node.js · AWS & DevOps</samp></h3>
+<p align="center"><samp>3+ years building production web apps, and taking them to the cloud with Terraform, Docker and CI/CD.</samp></p>
 
-
-<h3><b><samp>Skills</samp></b></h3>
-
-<h4><b><samp>Languages</samp></b></h4>
-
-![](https://skills.syvixor.com/api/icons?i=javascript,typescript,c,cpp&perline=18)
-
-<h4><b><samp>Frontend Frameworks & Libraries</samp></b></h4>
-
-![](https://skills.syvixor.com/api/icons?i=react,nextjs,styledcomponents,tailwind,chakraui,materialui,antdesign,bootstrap&perline=18)
-
-<h4><b><samp>State Management</samp></b></h4>
-
-![](https://skills.syvixor.com/api/icons?i=redux&perline=18)
-
-<h4><b><samp>Backend Frameworks & Runtime</samp></b></h4>
-
-![](https://skills.syvixor.com/api/icons?i=nodejs,expressjs&perline=18)
-
-<h4><b><samp>Databases</samp></b></h4>
-
-![](https://skills.syvixor.com/api/icons?i=mongodb,postgresql&perline=18)
-
-<h4><b><samp>DevOps & CI/CD</samp></b></h4>
-
-![](https://skills.syvixor.com/api/icons?i=githubactions,jenkins,docker&perline=18)
-
-<h4><b><samp>Developer Tools</samp></b></h4>
-
-![](https://skills.syvixor.com/api/icons?i=git,github,vscode,cursor&perline=18)
-
-##
-
-<h3><b><samp>Tools and Platform</samp></b></h3>
-
-<h4><b><samp>Operating Systems and Platforms</samp></b></h4>
-
-![](https://skills.syvixor.com/api/icons?i=windows,linux,ubuntu&perline=18)
-
-
-<!-- ### GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hazrat16&theme=radical" alt="GitHub Streak" />
-</p> -->
+  <a href="https://hazrat16.github.io/portfolio-hazrat/">Portfolio</a> ·
+  <a href="https://linkedin.com/in/smhazratali">LinkedIn</a> ·
+  <a href="mailto:hazrat17016@gmail.com">Email</a>
+</p>
+
+<p align="center"><samp>Open to full-stack, frontend and DevOps roles · available immediately</samp></p>
+
+### <samp>Featured projects</samp>
+
+| Project | What it shows |
+| --- | --- |
+| [**SmartJobHub**](https://github.com/Hazrat16/smart-jobhub) | Job platform (Next.js 15, Express 5, Socket.IO) with Terraform on AWS ECS, CI/CD and Grafana monitoring |
+| [**Real-time Inventory**](https://github.com/Hazrat16/real-time-high-trafic-inventory) · [Live](https://real-time-high-trafic-inventory-web.vercel.app) | Live stock over Socket.IO, row locking to prevent overselling |
+| [**Doctor Appointment**](https://github.com/Hazrat16/appointment) | 17-page app with patient, doctor and admin dashboards, Terraform and Ansible |
+| [**AI SQL Assistant**](https://github.com/Hazrat16/ai-sql-assistant-backend) | Plain English to safe, read-only SQL with OpenAI/Ollama |
+
+### <samp>Tech stack</samp>
+
+**Frontend**
+
+![](https://skills.syvixor.com/api/icons?i=typescript,javascript,react,nextjs,redux,tanstack,tailwind,vite,materialui,chakraui&perline=18)
+
+**Backend & data**
+
+![](https://skills.syvixor.com/api/icons?i=nodejs,expressjs,socketio,prisma,mongodb,postgresql,redis&perline=18)
+
+**Cloud & DevOps**
+
+![](https://skills.syvixor.com/api/icons?i=aws,terraform,docker,kubernetes,ansible,githubactions,jenkins,nginx,linux,bash&perline=18)
+
+**Testing & monitoring**
+
+![](https://skills.syvixor.com/api/icons?i=playwright,grafana,prometheus&perline=18)
+
+### <samp>Now</samp>
+
+- Building production AWS infrastructure for SmartJobHub (ECS Fargate, OIDC, versioned deploys)
+- Writing about what I build on [LinkedIn](https://linkedin.com/in/smhazratali)
